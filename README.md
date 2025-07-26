@@ -2,7 +2,10 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-About This Project:
+## Demo:
+https://simple-netflix-clone.onrender.com
+
+## About This Project:
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
 - 🔐 Authentication with JWT
